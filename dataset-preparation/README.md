@@ -1,14 +1,14 @@
 ## Bitdaan dataset preparation presentation notebook
-#### Requirement
+### Requirement
 `pip install -r requirements.txt`
-#### Presented By
+### Presented By
 Hussein Monfared
 
-#### Supervisor
+### Supervisor
 Dr Mohammad Soltanian
 
-#### Info
+### Info
 NLP Class @ KHU (Fall '22) 
 
-#### Presenting Language
+### Presenting Language
 Persian
